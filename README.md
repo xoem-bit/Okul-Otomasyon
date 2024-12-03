@@ -39,7 +39,7 @@ Bu projeyi klonlayın:
 
 bash
 Kodu kopyala
-git clone https://github.com/kullanıcı-adınız/ortaokul-otomasyon.git
+git clone https://github.com/xpoem-bit/Okul-Otomasyon.git
 SQL Server üzerinde OkulOtomasyon veritabanını oluşturun ve tabloları güncelleyin.
 
 Proje dosyasını Visual Studio ile açın.
