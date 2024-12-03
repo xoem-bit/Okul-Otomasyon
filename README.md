@@ -46,12 +46,6 @@ Proje dosyasını Visual Studio ile açın.
 
 Gerekli bağımlılıkları yükleyip projeyi çalıştırın. 🎉
 
-📝 Katkıda Bulunma
-Bu projeye katkıda bulunmak isterseniz, lütfen:
-
-Bir fork oluşturun.
-Değişikliklerinizi yapın.
-Bir pull request gönderin.
 📧 İletişim
 Herhangi bir sorunuz veya öneriniz olursa, bana ulaşabilirsiniz:
-E-posta: ornekmail@gmail.com
+E-posta: xoemsdiary@gmail.com
